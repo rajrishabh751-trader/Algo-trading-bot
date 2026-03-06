@@ -1,0 +1,12 @@
+# Pure Liquidity Trading System — Requirements
+# Python 3.9+ required
+
+# No external dependencies needed for basic system!
+# Python standard library se sab kaam ho jaata hai.
+
+# Optional (for Dhan API live trading — Phase 3):
+# dhanhq==2.0.0
+
+# Optional (for advanced scheduling):
+# schedule==1.2.1
+# apscheduler==3.10.4
